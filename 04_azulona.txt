@@ -1,0 +1,11 @@
+G;Gimnasio de Ciudad Azulona;20;2;Planta
+L;Erika
+P;Victreebel;25;40;30
+P;Tangela;35;35;35
+P;Vileplume;30;45;45
+E;Chica
+P;Bellsprout;25;25;30
+P;Weepinbell;20;30;35
+E;Bella
+P;Oddish;25;15;15
+P;Bellsprout;25;20;30

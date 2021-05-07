@@ -1,0 +1,11 @@
+G;Gimnasio de Ciudad Fucsia;25;5;Veneno
+L;Koga
+P;Koffing;30;40;35
+P;Muk;30;45;40
+P;Weezing;30;45;50
+E;Malabarista
+P;Drowzee;25;20;25
+P;Hypno;30;25;35
+E;Domador
+P;Sandslash;30;35;35
+P;Arbok;35;25;40

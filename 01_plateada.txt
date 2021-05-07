@@ -1,0 +1,7 @@
+G;Gimnasio de Ciudad Plateada;5;1;Roca
+L;Brock
+P;Geodude;30;15;15
+P;Onix;20;30;30
+E;Campista
+P;Diglett;15;15;5
+P;Sansdrew;10;10;5

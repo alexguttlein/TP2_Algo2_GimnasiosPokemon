@@ -1,0 +1,14 @@
+G;Gimnasio de Ciudad Carmin;15;1;Electrico
+L;Lt.Surge
+P;Voltorb;20;20;30
+P;Pikachu;30;20;35
+P;Raichu;35;40;45
+E;Caballero
+P;Pikachu;30;25;40
+E;Marinero
+P;Pikachu;30;20;40
+P;Pikachu;30;20;40
+E;Rockero
+P;Voltorb;20;20;30
+P;Magnemite;30;15;35
+P;Voltorb;20;20;30

@@ -1,0 +1,11 @@
+E;Ash
+P;Bulbasaur;35;20;20
+P;Charmander;30;15;25
+P;Squirtle;35;25;15
+P;Pidgeotto;50;15;20
+P;Krabby;25;30;25
+P;Muk;15;50;30
+P;Tauros;40;20;30
+P;Mankey;30;20;20
+P;Butterfree;20;15;25
+P;Lapras;15;60;30

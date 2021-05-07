@@ -1,0 +1,9 @@
+G;Gimnasio de Ciudad Celeste;10;2;Agua
+L;Misty
+P;Staryu;35;20;25
+P;Starmie;40;25;30
+E;Dominguera
+P;Goldeen;35;25;30
+E;Nadador
+P;Horsea;30;10;15
+P;Shelder;25;20;20

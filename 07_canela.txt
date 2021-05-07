@@ -1,0 +1,17 @@
+G;Gimnasio de Ciudad Canela;35;4;Fuego
+L;Blaine
+P;Growlithe;40;25;35
+P;Ponyta;45;35;30
+P;Rapidash;50;45;45
+P;Arcanine;45;55;55
+E;Supernecio
+P;Rapidash;50;45;45
+E;Supernecio
+P;Charmander;30;25;25
+P;Charmeleon;35;35;40
+P;Ponyta;45;35;30
+E;Ladron
+P;Ninetales;35;45;50
+E;Ladron
+P;Vulpix;40;25;35
+P;Growlithe;40;25;35

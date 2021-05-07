@@ -1,0 +1,13 @@
+G;Gimnasio de Ciudad Azafran;30;3;Psiquico
+L;Sabrina
+P;Kadabra;35;25;40
+P;Venomoth;30;30;40
+P;Mr. Mime;25;45;35
+P;Alakazam;40;35;55
+E;Exorcista
+P;Haunter;35;35;30
+E;Medium
+P;Slowbro;25;20;25
+E;Medium
+P;Abra;40;20;15
+P;Slowpoke;20;25;25

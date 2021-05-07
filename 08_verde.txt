@@ -1,0 +1,19 @@
+G;Gimnasio de Ciudad Verde;40;5;Tierra
+L;Giovanni
+P;Persian;35;30;35
+P;Nidoking;40;50;55
+P;Nidoqueen;35;45;55
+P;Rhydon;40;55;60
+E;Jesse&James
+P;Arbok;35;30;40
+P;Weezing;35;40;40
+P;Meouth;40;25;45
+E;Domador
+P;Tauros;45;45;45
+P;Rhyhorn;30;55;50
+E;Karateka
+P;Machop;30;25;25
+P;Machoke;40;40;50
+E;Entren.Guay
+P;Dugtrio;45;25;35
+P;Sandslash;40;45;45
